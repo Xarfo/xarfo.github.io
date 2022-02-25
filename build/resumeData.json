@@ -1,0 +1,160 @@
+{
+    "main": {
+        "name": "Abdul Ahmad",
+        "description": "Software Engineer(JavaScript | React.js | Node.js | Express.js | MongoDB | GraphQL)",
+        "image": "profilepic.jpg",
+        "bio": "I develop accessible, optimized and user-accommodating web applications. Breaking complexities into solvable problems is my thing! I value problem solving, communication and collaboration as integral part of the creative process of software engineering.",
+        "email": "abdul.ahmad.dev@gmail.com",
+        "github": "https://github.com/Xarfo",
+        "project": "https://github.com/",
+        "address": {
+            "city": "Washington DC"
+        },
+        "website": "http://creddle.io//",
+        "resumedownload": "https://resume.creddle.io/resume/7l4x7ufgkib/",
+        "social": [
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/SkepticalNomad",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/abdul-a-ahmad//",
+                "className": "fa fa-linkedin"
+            },
+       
+            {
+                "name": "github",
+                "url": "https://github.com/Xarfo/",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "education": [
+            {
+                "school": "University?",
+                "degree": "Masters in Beer tasting",
+                "graduated": "April 2007",
+                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+            },
+            {
+                "school": "Hogwarts School of Witchcraft and Wizardry",
+                "degree": "Gryffindor House",
+                "graduated": "March 2003",
+                "description": "Received 10 Outstandings in Care of Magical Creatures, Transfiguration, Potions, Charms, Herbology, Astronomy, History of Magic, Arithmancy, Ancient Runes, and Wandmaking."
+            }
+        ],
+        "work": [
+            {
+                "company": "Department of Magical Law Enforcement",
+                "title": "Ministry of Magic",
+                "years": "December 2010 - Present",
+                "description": "Work to put an end to pro-pureblood laws through negotiation, petitions, and enforcing and creating fair laws for the wizarding community.s"
+            },
+            {
+                "company": "Department for the Regulation and Control of Magical Creatures",
+                "title": "Ministry of Magic",
+                "years": "March 2007 - December 2010",
+                "description": "Worked to improve the quality of life for house-elves and other disenfranchised creatures."
+            },
+            {
+                "company": "Department for the Regulation and Control of Magical Creatures",
+                "title": "Ministry of Magic",
+                "years": "March 2007 - December 2010",
+                "description": "Worked to improve the quality of life for house-elves and other disenfranchised creatures."
+            }
+        ],
+        "skills": [
+            {
+                "name": "HTML5",
+                "level": "90%"
+            },
+            {
+                "name": "CSS3",
+                "level": "85%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "75%"
+            },
+            {
+                "name": "React.js",
+                "level": "60%"
+            },
+            {
+                "name": "Redux",
+                "level": "60%"
+            },
+            {
+                "name": "Node.js",
+                "level": "60%"
+            },
+            {
+                "name": "Express.js",
+                "level": "60%"
+            },
+            {
+                "name": "MongoDB",
+                "level": "60%"
+            },
+            {
+                "name": "GraphQL",
+                "level": "60%"
+            },
+            {
+                "name": "NPM",
+                "level": "60%"
+            },
+            {
+                "name": "Webpack",
+                "level": "60%"
+            },
+            {
+                "name": "Babel",
+                "level": "60%"
+            },
+            {
+                "name": "Jest",
+                "level": "60%"
+            },
+            {
+                "name": "Git",
+                "level": "80%"
+            },
+            {
+                "name": "GitHub",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Spotlight",
+                "category": "Spotlight is your one-stop-shop for comprehensive training, insights and recommendations to uncover new sales opportunities.",
+                "image": "project1.jpg",
+                "url": "https://spotlight.asurion.com/"
+            },
+            {
+                "title": "School in the Cloud",
+                "category": "School in the Cloud is a platform that trains senior volunteers to teach students in a group or individual setting.",
+                "image": "project3.jpg",
+                "url": "https://github.com/labs13-school-cloud?type=source"
+            },
+            {
+                "title": "Guidr",
+                "category": "Guidr helps back-country guides with logging their professional trips",
+                "image": "project2.jpg",
+                "url": "https://github.com/lsbw-guidr/Front-End-React"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project4.jpg",
+                "url": "http://www.smirkspace.com"
+            }
+        ]
+    }
+}
