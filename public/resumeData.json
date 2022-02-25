@@ -1,46 +1,37 @@
 {
     "main": {
-        "name": "Hermione Granger",
-        "description": "sou desenvolvedora web, ux/ui desinger ...",
+        "name": "Abdul Ahmad",
+        "description": "Software Engineer(JavaScript | React.js | Node.js | Express.js | MongoDB | GraphQL)",
         "image": "profilepic.jpg",
-        "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-        "email": "youremailhere@gmail.com",
-        "phone": "555-555-5555",
-        "github": "https://github.com/",
+        "bio": "I develop accessible, optimized and user-accommodating web applications. Breaking complexities into solvable problems is my thing! I value problem solving, communication and collaboration as integral part of the creative process of software engineering.",
+        "email": "abdul.ahmad.dev@gmail.com",
+        "github": "https://github.com/Xarfo",
         "project": "https://github.com/",
         "address": {
-            "street": "(Your Street)",
-            "city": "(Your City)",
-            "state": "(Your State)"
+            "city": "Washington DC"
         },
-        "website": "https://github.com/",
-        "resumedownload": "https://github.com/",
+        "website": "http://creddle.io//",
+        "resumedownload": "https://resume.creddle.io/resume/7l4x7ufgkib/",
         "social": [
             {
                 "name": "twitter",
-                "url": "http://twitter.com",
+                "url": "https://twitter.com/SkepticalNomad",
                 "className": "fa fa-twitter"
             },
             {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/abdul-a-ahmad//",
                 "className": "fa fa-linkedin"
             },
-            {
-                "name": "instagram",
-                "url": "http://instagram.com/",
-                "className": "fa fa-instagram"
-            },
+       
             {
                 "name": "github",
-                "url": "https://github.com/",
+                "url": "https://github.com/Xarfo/",
                 "className": "fa fa-github"
             }
         ]
     },
     "resume": {
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
         "education": [
             {
                 "school": "University?",
@@ -77,23 +68,63 @@
         ],
         "skills": [
             {
-                "name": "Python",
-                "level": "60%"
-            },
-            {
-                "name": "VueJs",
-                "level": "55%"
-            },
-            {
-                "name": "ReactJs",
-                "level": "50%"
-            },
-            {
-                "name": "CSS",
+                "name": "HTML5",
                 "level": "90%"
             },
             {
-                "name": "JAVA",
+                "name": "CSS3",
+                "level": "85%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "75%"
+            },
+            {
+                "name": "React.js",
+                "level": "60%"
+            },
+            {
+                "name": "Redux",
+                "level": "60%"
+            },
+            {
+                "name": "Node.js",
+                "level": "60%"
+            },
+            {
+                "name": "Express.js",
+                "level": "60%"
+            },
+            {
+                "name": "MongoDB",
+                "level": "60%"
+            },
+            {
+                "name": "GraphQL",
+                "level": "60%"
+            },
+            {
+                "name": "NPM",
+                "level": "60%"
+            },
+            {
+                "name": "Webpack",
+                "level": "60%"
+            },
+            {
+                "name": "Babel",
+                "level": "60%"
+            },
+            {
+                "name": "Jest",
+                "level": "60%"
+            },
+            {
+                "name": "Git",
+                "level": "80%"
+            },
+            {
+                "name": "GitHub",
                 "level": "80%"
             }
         ]
@@ -101,22 +132,22 @@
     "portfolio": {
         "projects": [
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "Spotlight",
+                "category": "Spotlight is your one-stop-shop for comprehensive training, insights and recommendations to uncover new sales opportunities.",
                 "image": "project1.jpg",
-                "url": "https://www.canadianwanderlust.com"
+                "url": "https://spotlight.asurion.com/"
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project2.jpg",
-                "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-            },
-            {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "School in the Cloud",
+                "category": "School in the Cloud is a platform that trains senior volunteers to teach students in a group or individual setting.",
                 "image": "project3.jpg",
-                "url": "http://www.timbakerdev.com"
+                "url": "https://github.com/labs13-school-cloud?type=source"
+            },
+            {
+                "title": "Guidr",
+                "category": "Guidr helps back-country guides with logging their professional trips",
+                "image": "project2.jpg",
+                "url": "https://github.com/lsbw-guidr/Front-End-React"
             },
             {
                 "title": "Gryffindor Project",
